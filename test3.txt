@@ -1,2 +1,11 @@
 first add bbbbb
 and then git add . see the change 
+
+add new stuff after git add. to see if it will be update after git add.?
+
+one more time, and i will check git status
+
+shows there is change not statges for commit
+
+I will do git add one more time 
+the resulyt should be everything in thing page will be add and commit and push
