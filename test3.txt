@@ -1,0 +1,2 @@
+first add bbbbb
+and then git add . see the change 
